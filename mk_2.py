@@ -85,8 +85,7 @@
 #     for j in range(10):
 #         if str(j)==a[i]:
 #             b=b+j*10**(len(a)-1-i)
-#             break
-# print(b)
+#             b
 #
 
 
